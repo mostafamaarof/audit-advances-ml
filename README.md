@@ -90,3 +90,5 @@ needed beyond these two lines.
   outcomes as soon as they're available.
 - XGBoost is optional; if not installed, the app still works and compares
   Random Forest vs. Logistic Regression only.
+# audit-advances-ml
+Machine Learning application for analyzing open supplier advances and identifying audit risks.
